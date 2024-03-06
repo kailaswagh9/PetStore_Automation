@@ -1,0 +1,6 @@
+17:24:28.285 [main] INFO  api.test.UserTests - ******creating user*********
+17:24:51.146 [main] INFO  api.test.UserTests - ******user created*********
+17:24:51.323 [main] INFO  api.test.UserTests - ******getting user*********
+17:25:04.429 [main] INFO  api.test.UserTests - ******user updated*********
+17:25:04.445 [main] INFO  api.test.UserTests - ******deleting user*********
+17:25:06.141 [main] INFO  api.test.UserTests - ******user deleted*********
